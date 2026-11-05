@@ -1,4 +1,7 @@
-Ejercicios APEEjercicio 1. Crear un fichero en JavaEnunciado: Desarrollar un programa en Java que permita crear un archivo de texto llamado curso.txt.   Indicaciones:Importar las clases necesarias para trabajar con archivos.
+Ejercicios APE 
+
+Ejercicio 1. Crear un fichero en JavaEnunciado: Desarrollar un programa en Java que permita crear un archivo de texto llamado curso.txt.   
+Indicaciones:Importar las clases necesarias para trabajar con archivos.
 Crear un objeto de tipo File. 
 Utilizar el método createNewFile() para crear el archivo.
 Comprobar si el archivo se creó correctamente o si ya existe.   
