@@ -2,7 +2,7 @@ import java.io.BufferedWriter;
 import java.io.FileWriter;
 import java.io.IOException;
 
-public class Ejercicio3 {
+public class Ejercicio9 {
     public static void main(String[] args) {
         String[] nuevasMaterias = {
             "Redes de Computadoras",
